@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>razboyniki</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
-    <ru>7227415c0ac97e9ba9a3299b2afc138c3f4eabb270e3ddc15e3395b18345094d</ru>
-    <en>de503d6df120134d121a1b947c2aceacd4fb49e33dea76cc499075810f23d478</en>
+    <ru>144188af5c10a05ed579b6b74e0a46b477133b5259d63d2d75568b6afa611618</ru>
+    <en>9f9859ec5f9e4ccdf17fb30b45cf5318808443a80eb291b2794c4eb9fe686fe5</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
